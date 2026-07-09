@@ -1,0 +1,6 @@
+fnm (__VERSION__) unstable; urgency=medium
+
+  * Repackage of upstream fnm __UPSTREAM_TAG__ prebuilt release binary
+    (__ARCH__) from https://github.com/Schniz/fnm/releases.
+
+ -- Fernando Silveira <fsilveira@gmail.com>  __DATE__
